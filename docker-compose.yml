@@ -28,4 +28,4 @@ default_priority:
 no_ghproxy: true
 daily_asset_push_cron:
 repos:
-  - git: https://github.com/shufflewzc/faker2.git
+  - git: https://github.com/yuannian1112/jd_scripts.git
